@@ -31,6 +31,8 @@ Acrylic Panel:
 
 ③ Remove the SD card from the 3D printer, connect it to a computer using a card reader, copy the G-code files onto the SD card, and reinsert the SD card into the 3D printer.
 ④ Start the 3D printer, select the file(s) to print, and begin printing.
+![237ed0f5ce420d4bbb134a667f366c0b](https://github.com/user-attachments/assets/034b9fd7-8e05-47d8-bb98-3162e05e8c22)
+
 
 (2) Making the Acrylic Light Component (Using Laser Cutting Technology)
 ① Use any software capable of drawing vector graphics (e.g., Adobe Illustrator, Autodesk CAD, etc.) to draw a leaf shape (you can trace an imported image or draw one yourself); export the file in a suitable format (e.g., .ai, .dxf, .pdf). (Corresponding file: LEAF.dxf).

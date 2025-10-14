@@ -30,6 +30,8 @@ Acrylic Panel:
 ![d95fe91da326dfa96015e1a433136766](https://github.com/user-attachments/assets/4ec60d67-09b6-4004-868f-2ef1113a5e9f)
 
 ③ Remove the SD card from the 3D printer, connect it to a computer using a card reader, copy the G-code files onto the SD card, and reinsert the SD card into the 3D printer.
+![247cae49c5b04920f25c7770d7693d65](https://github.com/user-attachments/assets/3bb8c933-f856-4233-986a-2cbcaa592df1)
+
 ④ Start the 3D printer, select the file(s) to print, and begin printing.
 ![237ed0f5ce420d4bbb134a667f366c0b](https://github.com/user-attachments/assets/034b9fd7-8e05-47d8-bb98-3162e05e8c22)
 

@@ -6,7 +6,7 @@ In the future, humanity has invented technology to derive energy from plants. Pr
 
 ## 2. Product Composition
 ### (1) Product Components:
-Base:
+Base:I made a slot here to indicate that there will be an electronic screen here.
 ![03669f2396f398dc133ca8a3d053ab36](https://github.com/user-attachments/assets/4b8a7aac-eb66-4c3f-a018-fde55e44be1c)
 Lid:
 ![9dba8dc08a5cd4c1a4d3503a1715fb8d](https://github.com/user-attachments/assets/0e06b131-80a8-414e-92b4-41d561f55b63)

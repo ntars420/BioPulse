@@ -50,4 +50,11 @@ Acrylic Panel:
 ![4372642e6bfd03ef5626e8f298d39495](https://github.com/user-attachments/assets/7fcf5cd4-dccf-4ac8-bd12-f39565081453)
 ### Some tips: 
 1. It might be necessary to make the slot of the box looser; otherwise, it will be very difficult for the lid and the box to fit together.
-2.  2 The groove of the lid needs to be slightly narrower than the thickness of the acrylic sheet; otherwise, the acrylic sheet is prone to fall off
+2.  2 The groove of the lid needs to be slightly narrower than the thickness of the acrylic sheet; otherwise, the acrylic sheet is prone to fall off.
+
+## Improvement: 
+I made some modifications to my product, addressing the issues where the model did not fit the size of the arduino board and the screw holes were not positioned properly. I also resolved the problem where the "blades" could not be fixed. I'm very sorry that I don't have more time to reprint a 3D model, but I have already uploaded the modified file.
+<img width="953" height="812" alt="屏幕截图 2025-11-12 141359" src="https://github.com/user-attachments/assets/c0da5165-8b40-4403-9da8-533ca5a6a7d4" />
+<img width="953" height="812" alt="屏幕截图 2025-11-12 141359" src="https://github.com/user-attachments/assets/7360779b-4616-4851-80b7-9a62916f1726" />
+<img width="555" height="717" alt="屏幕截图 2025-11-12 143225" src="https://github.com/user-attachments/assets/c57297d3-3e52-4f33-9989-5cd4401a2b5f" />
+

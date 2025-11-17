@@ -57,4 +57,5 @@ I made some modifications to my product, addressing the issues where the model d
 <img width="953" height="812" alt="屏幕截图 2025-11-12 141359" src="https://github.com/user-attachments/assets/c0da5165-8b40-4403-9da8-533ca5a6a7d4" />
 <img width="953" height="812" alt="屏幕截图 2025-11-12 141359" src="https://github.com/user-attachments/assets/7360779b-4616-4851-80b7-9a62916f1726" />
 <img width="555" height="717" alt="屏幕截图 2025-11-12 143225" src="https://github.com/user-attachments/assets/c57297d3-3e52-4f33-9989-5cd4401a2b5f" />
+![4365ce9af56c3aebc599951415511fb6](https://github.com/user-attachments/assets/6e30ef13-7254-4d07-a7d1-7e5ddf1cc5c7)
 
